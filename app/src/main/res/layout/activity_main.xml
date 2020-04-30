@@ -10,12 +10,12 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hola Corazon"
+        android:text=" Baila Porque Si "
         android:layout_gravity="center"
+        android:textSize="48dp"
         android:layout_marginTop="24dp"
-        android:textSize="24sp"
-        android:textColor="#000000"
-        android:textStyle="italic | bold"/>
+        android:textColor="#00FF00"
+        android:textStyle="italic | bold" />
 
 
     <ImageView
@@ -23,7 +23,18 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_margin="48dp"
+        android android:layout_marginTop="48dp"
         app:srcCompat="@drawable/ball" />
+
+    <TextView
+        android:id="@+id/respuesta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="..."
+        android:layout_gravity="center"
+        android:textSize="60dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#FF4500"
+        android:textStyle="italic | bold" />
 
 </LinearLayout>
