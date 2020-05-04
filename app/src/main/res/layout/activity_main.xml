@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text=" Baila Porque Si "
         android:layout_gravity="center"
-        android:textSize="48dp"
+        android:textSize="48sp"
         android:layout_marginTop="24dp"
         android:textColor="#00FF00"
         android:textStyle="italic | bold" />
@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:text="..."
         android:layout_gravity="center"
-        android:textSize="60dp"
+        android:textSize="24sp"
         android:layout_marginTop="10dp"
         android:textColor="#FF4500"
         android:textStyle="italic | bold" />
